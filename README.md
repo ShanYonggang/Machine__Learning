@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/numpy-1.17.4-green.svg)](https://docs.djangoproject.com/en/2.1/releases/2.1/)
+
 ## 机器学习基本算法总结
 
 仅用于个人学习，内容比较混乱，总结均存放至个人网站上：https://www.shanyonggang.cn/
