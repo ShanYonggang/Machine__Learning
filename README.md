@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/numpy-1.17.4-green.svg)](https://docs.djangoproject.com/en/2.1/releases/2.1/)[![](https://img.shields.io/badge/pandas-0.25.1-blue.svg)](https://docs.djangoproject.com/en/2.1/releases/2.1/)[![](https://img.shields.io/badge/matplotlib-3.1.1-yellow.svg)](https://docs.djangoproject.com/en/2.1/releases/2.1/)[![](https://img.shields.io/badge/scikit-learn-0.22-red.svg)](https://docs.djangoproject.com/en/2.1/releases/2.1/)
+[![](https://img.shields.io/badge/numpy-1.17.4-green.svg)](https://docs.djangoproject.com/en/2.1/releases/2.1/) [![](https://img.shields.io/badge/pandas-0.25.1-blue.svg)](https://docs.djangoproject.com/en/2.1/releases/2.1/) [![](https://img.shields.io/badge/matplotlib-3.1.1-yellow.svg)](https://docs.djangoproject.com/en/2.1/releases/2.1/) [![](https://img.shields.io/badge/scikit-learn-0.22-red.svg)](https://docs.djangoproject.com/en/2.1/releases/2.1/)
 
 ## 机器学习基本算法总结
 
