@@ -2,7 +2,7 @@
 
 ## 机器学习基本算法总结
 
-仅用于个人学习，内容比较混乱，总结均存放至个人网站上：https://www.shanyonggang.cn/
+这一阶段主要是学习吴恩达机器学习视频，仅用于个人学习，内容比较混乱，总结均存放至个人网站上：https://www.shanyonggang.cn/
 ### **KNN算法学习总结**
 KNN算法总结：[K近邻算法总结](https://www.shanyonggang.cn/article_detail/60/ "K近邻算法总结")
 
