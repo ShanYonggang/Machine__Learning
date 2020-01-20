@@ -11,13 +11,13 @@ KNN算法实战1：[K近邻算法实战1](https://github.com/ShanYonggang/Machin
 ### **决策树算法学习总结**
 总结地址：[决策树算法总结](https://www.shanyonggang.cn/article_detail/61/ "决策树算法总结")
 
-### **逻辑回归算法学习总结**
-总结地址：[逻辑回归算法学习总结](https://www.shanyonggang.cn/article_detail/76/ "逻辑回归算法学习总结")
-
 ### **线性回归算法学习总结**
 总结地址：[一元、多元线性回归算法学习总结](https://www.shanyonggang.cn/article_detail/74 "一元、多元线性回归算法学习总结")
 
 总结地址：[多项式、岭回归算法学习总结](https://www.shanyonggang.cn/article_detail/75 "多项式、岭回归算法学习总结")
+
+### **逻辑回归算法学习总结**
+总结地址：[逻辑回归算法学习总结](https://www.shanyonggang.cn/article_detail/76/ "逻辑回归算法学习总结")
 
 ### **朴素贝叶斯算法学习总结**
 总结地址：[朴素贝叶斯算法学习总结](https://www.shanyonggang.cn/article_detail/78 "朴素贝叶斯算法学习总结")
